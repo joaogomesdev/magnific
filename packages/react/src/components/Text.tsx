@@ -1,5 +1,4 @@
-import { ComponentProps } from '@stitches/react'
-import { ElementType } from 'react'
+import { ElementType, ComponentProps } from 'react'
 
 import { styled } from '../styles'
 
@@ -35,3 +34,5 @@ export const Text = styled('p', {
 export interface TextProp extends ComponentProps<typeof Text> {
   as?: ElementType
 }
+
+Text.displayName = 'Text'
