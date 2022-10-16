@@ -28,7 +28,7 @@
 
 ## :dart: About
 
-- 🤌 An magnific design system 👨🏻‍🎨
+🤌 An magnific design system 👨🏻‍🎨
 
 ## :sparkles: Resources
 
