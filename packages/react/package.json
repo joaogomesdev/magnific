@@ -1,5 +1,5 @@
 {
-  "name": "@joaogomesdev-ignite-ui/react",
+  "name": "@joaogomesdev-studies/react",
   "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@joaogomesdev-ignite-ui/eslint-config": "*",
-    "@joaogomesdev-ignite-ui/tokens": "*",
-    "@joaogomesdev-ignite-ui/ts-config": "*",
+    "@joaogomesdev-studies/eslint-config": "*",
+    "@joaogomesdev-studies/tokens": "*",
+    "@joaogomesdev-studies/ts-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   },

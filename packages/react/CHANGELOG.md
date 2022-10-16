@@ -1,7 +1,7 @@
-# @joaogomesdev-ignite-ui/react
+# @joaogomesdev-studies/react
 
 ## 2.0.0
 
 ### Major Changes
 
-- Create Core components
+- Creating package with new name
