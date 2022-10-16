@@ -31,7 +31,7 @@ export const Text = styled('p', {
   },
 })
 
-export interface TextProp extends ComponentProps<typeof Text> {
+export interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType
 }
 

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { TextProp, Text } from '@ignite-ui/react'
+import { TextProps, Text } from '@joaogomesdev-ignite-ui/react'
 
 export default {
   title: 'Typography/Text',
@@ -34,7 +34,7 @@ export default {
 } as Meta<TextProps>
 
 export const Primary: StoryObj<TextProps> = {}
-export const CustomTag: StoryObj<TextProp> = {
+export const CustomTag: StoryObj<TextProps> = {
   args: {
     children: 'Strong text',
     as: 'strong',

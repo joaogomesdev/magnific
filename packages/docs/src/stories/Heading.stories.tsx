@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { HeadingProps, Heading } from '@ignite-ui/react'
+import { HeadingProps, Heading } from '@joaogomesdev-ignite-ui/react'
 
 export default {
   title: 'Typography/Heading',
@@ -17,7 +17,7 @@ export default {
         type: 'inline-radio',
       },
     },
-  }
+  },
 } as Meta<HeadingProps>
 
 export const Primary: StoryObj<HeadingProps> = {}
