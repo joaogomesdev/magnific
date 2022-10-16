@@ -36,7 +36,7 @@ Under construction 🚧
 
 <!-- :heavy_check_mark: ...;\ -->
 
-## :rocket: Technologias/Dependências (Até o momento)
+## :rocket: Technologies 
 
 The following tools/dependencies were used in this project:
 
@@ -120,4 +120,4 @@ Made with :heart: by <a href="https://github.com/JoaoGomes5" target="_blank">Jo�
 
 &#xa0;
 
-<a href="#top">Voltar para cima</a>
+<a href="#top">Back to top</a>
