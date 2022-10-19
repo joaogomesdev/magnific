@@ -32,8 +32,6 @@
 
 The following tools/dependencies were used in this project:
 
-Under construction 🚧
-
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Radix](https://www.radix-ui.com/)
